@@ -36,4 +36,4 @@ Este projeto trata-se da previsão de vendas de uma rede farmacêutica Rossmann 
 ##### Performance do XGBoost após o fine tuning dos parâmetros
 ![image](https://user-images.githubusercontent.com/84376824/219051588-d5722957-8879-4e17-8204-cffe9f5fbe2d.png)
 
-### [Link para o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzQ1ODdiYjgtYTIwNC00NDI3LTkwZWItZDFkNGEyYzgyMjhjIiwidCI6IjNjMGE4OTcxLTVkYmItNDJkNi05ZTBmLTUyM2IxZTcyN2Q2MSJ9) feito com o PowerBI contendo uma visão geral das vendas
+### [Link para o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzQ1ODdiYjgtYTIwNC00NDI3LTkwZWItZDFkNGEyYzgyMjhjIiwidCI6IjNjMGE4OTcxLTVkYmItNDJkNi05ZTBmLTUyM2IxZTcyN2Q2MSJ9) feito com o PowerBI contendo uma visão geral das vendas.
