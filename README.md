@@ -26,3 +26,14 @@ Este projeto trata-se da previsão de vendas de uma rede farmacêutica Rossmann 
 |PromoInterval|Indica os intervalos de meses em que a loja participou da Promo2
 
 ### Resultados obtidos
+![image](https://user-images.githubusercontent.com/84376824/219048648-54807712-0784-4800-b9c2-5ce480c5806e.png)
+
+![image](https://user-images.githubusercontent.com/84376824/219047661-2f35f2b7-2fa7-45d7-afce-c3b2f03e897e.png)
+
+##### Performance dos modelos
+![image](https://user-images.githubusercontent.com/84376824/219047219-7656c89c-2be9-4631-9527-cb8b9e58e824.png)
+
+##### Performance do XGBoost após o fine tuning dos parâmetros
+![image](https://user-images.githubusercontent.com/84376824/219051588-d5722957-8879-4e17-8204-cffe9f5fbe2d.png)
+
+### [Link para o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzQ1ODdiYjgtYTIwNC00NDI3LTkwZWItZDFkNGEyYzgyMjhjIiwidCI6IjNjMGE4OTcxLTVkYmItNDJkNi05ZTBmLTUyM2IxZTcyN2Q2MSJ9) feito pelo PowerBI com a visão geral das vendas
