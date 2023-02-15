@@ -38,4 +38,4 @@ Este projeto trata-se da previsão de vendas de uma rede farmacêutica Rossmann 
 
 ### [Link para o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzQ1ODdiYjgtYTIwNC00NDI3LTkwZWItZDFkNGEyYzgyMjhjIiwidCI6IjNjMGE4OTcxLTVkYmItNDJkNi05ZTBmLTUyM2IxZTcyN2Q2MSJ9) feito com o PowerBI contendo uma visão geral das vendas.
 
-### Veja os detalhes no [jupyter notebook](https://github.com/katsuyosh/dsprod/blob/main/notebooks/notebookCiclo_01.ipynb), disponível no atual repositório.
+### Veja toda a análise no [jupyter notebook](https://github.com/katsuyosh/dsprod/blob/main/notebooks/notebookCiclo_01.ipynb), disponível no atual repositório.
